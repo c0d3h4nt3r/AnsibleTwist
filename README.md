@@ -1,10 +1,6 @@
 # Ansible-skeleton
 The purpose is to provide a folder structure for a new project.
 
-Folder structure in this skeleton is somewhat opinionated. Ansible provides alternative structures.
-
-See [Ansible best practises](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html#directory-layout) for more information.
-
 ## What is included
 - Folder structures and placeholder files.
 - Example role
