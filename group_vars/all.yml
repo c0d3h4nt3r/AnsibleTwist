@@ -1,0 +1,2 @@
+# Vars that will be used for machines regardless of role
+remote_user: some_user
