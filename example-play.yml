@@ -1,6 +1,6 @@
 ---
 - name: Example
-  hosts: example
-  remote_user: "{{ remote_user }}"
+  hosts: example_1
+  remote_user: "{{ dbadmin }}"
   roles:
     - example-role
